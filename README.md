@@ -17,14 +17,7 @@ Uses the [Brain Tumor MRI Dataset](https://www.kaggle.com/datasets/masoudnickpar
 - No Tumor 
 - Pituitary
 
-Directory structure:
-Training/
-├── glioma/
-├── meningioma/
-├── notumor/
-└── pituitary/
-Testing/
-└── (same structure)
+
 
 
 ## Features
