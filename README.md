@@ -30,5 +30,5 @@ Uses the [Brain Tumor MRI Dataset](https://www.kaggle.com/datasets/masoudnickpar
 ## Installation
 1. Clone repository:
 ```bash
-git clone https://github.com/yourusername/brain-tumor-ssl.git
-cd brain-tumor-ssl
+git clone(https://github.com/mariam-gad232/self-supervised-learning-for-tumor-detection-in-brain-MRI)
+
